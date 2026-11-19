@@ -8,4 +8,4 @@ clang -g -framework AppKit -o Mooselutions ../../code/mac_platform/mac_os_main.m
 
 popd
 
-echo "Finished Building Mooselutions"
+echo "Finished Building Mooselutions!"
